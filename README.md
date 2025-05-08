@@ -1,4 +1,4 @@
-## 💻 Frontend Assessment
+## 💻 Frontend Assessment - Codeleap Test
 
 I completed this frontend assessment using **React**.  
 I followed the design exactly, focusing on **usability**, **consistency**, and **attention to detail**.  
